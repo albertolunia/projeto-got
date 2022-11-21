@@ -1,1 +1,2 @@
-<h1 align="center"> <img src="https://cinesiageek.com.br/wp-content/uploads/2017/07/game-of-thrones-logo-4k-wallpaper-6173.jpg" alt="Got Logo" width="400px" /> Projeto de analise de dados utilizando o csv da serie Game of Thrones</h1>
+<img src="./got.jpg" alt="Got Logo" width="800px"/>
+<h1 align="center">Projeto de analise de dados utilizando o csv da serie Game of Thrones</h1>
