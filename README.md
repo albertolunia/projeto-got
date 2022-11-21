@@ -1,9 +1,8 @@
 <img src="./got.jpg" alt="Got Logo" width="800px"/>
 <h1 align="center">Projeto de Analise de Dados Utilizando o Csv da Serie Game of Thrones</h1>
-<div align="center">
+
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em%20desenvolvimento-brightgreene)
 ![Badge Tema](https://img.shields.io/badge/Tema-Analise%20Exploratoria%20de%20Dados-blue)
-</div>
 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
